@@ -28,5 +28,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
+# 코딩애플님 강의 학습
+
 # 정리내용(티스토리 블로그)
 https://ltf-juni0914.tistory.com/manage/posts/?category=-3&page=1&searchKeyword=&searchType=title&visibility=all
